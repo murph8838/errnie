@@ -1,1 +1,3 @@
 # errnie
+
+slack: https://join.slack.com/t/errrnie/shared_invite/enQtNDQ4NzQwMDc0Mjc3LTczYzczZjYwZDY5ZmFlZWJmY2VlNDViMjBmMjBlZDc4ZmMyNGM4YjIwYzgwMmU5ZGMxZTc5ZGY0ZjQ0NzBhZTk
